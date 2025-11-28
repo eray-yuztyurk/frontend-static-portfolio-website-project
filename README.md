@@ -1,20 +1,20 @@
 # Frontend Static Portfolio Website Project
 
-This repository contains a simple static portfolio website built using HTML, CSS, and JavaScript. The project was developed as part of a frontend learning exercise to practice layout building, basic styling, DOM interactions, and organizing a small web project in a clean folder structure.
+This repository contains a small static portfolio website built with HTML, CSS, and JavaScript. The project was created as part of a frontend practice exercise and focuses on building a simple layout, applying basic styling, and adding light interactivity through JavaScript.
 
 ## Features
 
-* Single‑page static structure
+* Single-page static layout
 * Basic navigation bar
-* Skills and project overview sections
-* Simple recommendation form with JavaScript interaction
+* Sections for skills and project highlights
+* Simple recommendation form with a popup message
 * Lightweight and easy to maintain
 
 ## Technologies Used
 
-* **HTML** for page structure
-* **CSS** for layout and visual styling
-* **JavaScript** for small interactive elements
+* **HTML** for the page structure
+* **CSS** for layout and styling
+* **JavaScript** for basic interaction
 
 ## Project Structure
 
@@ -24,7 +24,7 @@ frontend-static-portfolio-website-project/
 │── style.css
 │── script.js
 │── assets/
-│     ├── images and icons used in the project
+│     └── images and icons used in the project
 │── README.md
 ```
 
@@ -33,12 +33,12 @@ frontend-static-portfolio-website-project/
 1. Clone or download the repository.
 2. Open `index.html` in any modern browser.
 
-No additional setup or dependencies are required.
+No additional setup or installations are required.
 
 ## Notes
 
-This project is intentionally kept minimal to focus on core frontend fundamentals and file organization best practices.
+This project is intentionally kept minimal to focus on core frontend fundamentals and clean file organization.
 
 ## License
 
-This project is provided for learning and demonstration purposes.
+This project is intended for learning and demonstration purposes.
