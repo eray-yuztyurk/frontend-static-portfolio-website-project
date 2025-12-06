@@ -2,6 +2,14 @@
 
 This repository contains a small static portfolio website built with HTML, CSS, and JavaScript. The project was created as part of a frontend practice exercise and focuses on building a simple layout, applying basic styling, and adding light interactivity through JavaScript.
 
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [How to Run](#how-to-run)
+- [Notes](#notes)
+- [License](#license)
+  
 ## Features
 
 * Single-page static layout
